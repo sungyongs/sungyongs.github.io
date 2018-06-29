@@ -13,8 +13,8 @@ author :
   name : Sungyong Seo
   email : sungyons@usc.edu
   github : sungyongs
-  # twitter : kwbroman
-  # feedburner : nil
+#   twitter : nil
+#   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://sungyongs.github.io/
@@ -105,19 +105,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-=======
-theme: jekyll-theme-minimal
-#plugins:
-#  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
