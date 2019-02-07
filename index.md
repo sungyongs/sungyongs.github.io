@@ -15,7 +15,7 @@ of University of Southern California. I work on Machine Learning under supervisi
 I am interested in machine learning problems in general.
 More specifically, my research mainly focuses on principled techniques for extracting knowledge from the complex structures or networks and using it to build predictive models -- in that way merging insights both from data mining and machine learning. Furthermore, combining the structural knowledge with temporal behaviors is the topic which I am interested in. I am working on the following topics:
 * Spatiotemporal data mining
-* Graph-based deep learning
+* Graph-based Neural Networks
 * Time Series Forecasting
 
 ## Education
@@ -48,7 +48,7 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 - **Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction**<br>
 **Sungyong Seo**, Jing Huang, Hao Yang, and Yan Liu.<br>
 *Proceedings of the 11th ACM Conference on Recommender Systems (RecSys)* 2017.<br>
-[\[Paper\]](https://dl.acm.org/citation.cfm?id=3109890) [\Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2017interpretable)
+[\[Paper\]](https://dl.acm.org/citation.cfm?id=3109890) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2017interpretable)
 
 ### Workshops or Preprints
 - **Data Quality Network for Spatiotemporal Forecasting**<br>
