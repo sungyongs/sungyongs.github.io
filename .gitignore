@@ -1,5 +1,9 @@
 _site
 .sass-cache
-.jekyll-metadata
-Gem*
+.directory
+Thumbs.db
+_drafts
+.ruby-version
+Gemfile.lock
+backup
 .DS_Store
