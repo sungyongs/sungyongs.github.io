@@ -18,10 +18,10 @@ More specifically, my research mainly focuses on principled techniques for extra
 * Graph-based Neural Networks
 * Time Series Forecasting
 
-## Education
-- 2015 - Present : PhD, Computer Science, University of Southern California
-- 2012 - 2014 : MS, Electrical Engineering, University of Michigan
-- 2005 - 2012 : BS, Electrical Engineering, Seoul National University
+<!-- Education -->
+<div class="row">
+    {% include sections/education.html %}    
+</div>
 
 ## Publications
 ### Conferences
@@ -64,9 +64,8 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 *3rd International Workshop on Machine Learning Methods for Recommender Systems (MLRec)(SDM’17)* 2017. <br/>
 [\[Paper\]](https://pdfs.semanticscholar.org/4946/89f4522619b887e515aea2b205490b0eb5cd.pdf)
 
-## Work Experience
-- 2018.5 - 2018.8 : Research Intern, [Yahoo! Research](https://research.yahoo.com/)
-- 2016.6 - 2016.8 : Research Intern, [Visa Research](http://research.visa.com/)
-- 2015.2 - 2015.7 : Software Engineer, [December & Company](http://dco.com)
-- 2014.5 - 2014.12 : Research Assistant at [Guo Group](http://www.guogroup.org/), University of Michigan
 
+<!-- Work Experience -->
+<div class="row">
+    {% include sections/career.html %}    
+</div>

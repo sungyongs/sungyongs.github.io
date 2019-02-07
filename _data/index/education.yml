@@ -1,8 +1,16 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: University of Southern California
+  date: Aug. 2015 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Computer Science Ph.D.
+  descr: (expected graduation in 2020)
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: University of Michigan, Ann Arbor
+  date: Aug. 2012 - Dec. 2014
+  job: Electrical Engineering M.S.
+
+- name: Nanyang Technological University
+  date: Jan. 2008 - May 2008
+  job: Singapore TF-NTU LEaRN Program Visiting Student
+
+- name: Seoul National University
+  date: Mar. 2005 - Feb. 2012
+  job: Electrical Engineering B.S.,  Physics (Minor)
