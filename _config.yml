@@ -1,5 +1,9 @@
-name: Sungyong Seo
+name: Sungyong Seo @ USC
+email: sungyons@usc.edu
+description: Personal page of Sungyong Seo
+
+
 markdown: kramdown
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 remote_theme: ankitsultana/researcher@gem
 
