@@ -4,6 +4,6 @@ description: Personal page of Sungyong Seo
 
 
 markdown: kramdown
-# theme: jekyll-theme-minimal
-remote_theme: ankitsultana/researcher@gem
+theme: jekyll-theme-minimal
+# remote_theme: ankitsultana/researcher@gem
 
