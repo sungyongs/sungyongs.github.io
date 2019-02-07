@@ -32,23 +32,23 @@ Karishma Sharma, **Sungyong Seo**, Xinran He and Yan Liu (Submitted) <br><br>
 - **Social Bots for Online Public Health Interventions**<br/>
 Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Yan, Jon-Patrick Allem and Emilio Ferrara <br/>
 *IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)* 2018.<br>
-[\[Paper\]](https://arxiv.org/abs/1804.07886)
+[\[Paper\]](https://arxiv.org/abs/1804.07886) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/deb2018social)
 - **Automatically Inferring Data Quality for Spatiotemporal Forecasting**<br>
 **Sungyong Seo**, Arash Mohegh, George Ban-Weiss, and Yan Liu.<br>
 *6th International Conference on Learning Representations (ICLR)* 2018.<br>
-[\[Paper\]](https://openreview.net/forum?id=ByJIWUnpW) [\[OpenReview\]](https://openreview.net/forum?id=ByJIWUnpW) [\[Bibtex\]]()
+[\[Paper\]](https://openreview.net/forum?id=ByJIWUnpW) [\[OpenReview\]](https://openreview.net/forum?id=ByJIWUnpW) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2018automatically)
 - **Partially Generative Neural Networks for Gang Crime Classification with Partial Information**<br>
 **Sungyong Seo**, Hau Chan, P. Jeffrey Brantingham, Jorja Leap, Phebe Vayanos, Milind Tambe and Yan Liu.<br>
 *AAAI/ACM Conference on AI, Ethics, and Society* 2018. (Oral presentation)<br>
-[\[Paper\]](https://pdfs.semanticscholar.org/b00d/c595d1e947b932e48223273bc21ce985bd5b.pdf)
+[\[Paper\]](https://pdfs.semanticscholar.org/b00d/c595d1e947b932e48223273bc21ce985bd5b.pdf) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2018partially)
 - **CSI: A Hybrid Deep Model for Fake News Detection**<br>
 **Sungyong Seo**\*, Natali Ruchansky\*, and Yan Liu.<br>
 *Proceedings of the 26th ACM International on Conference on Information and Knowledge Management (CIKM)* 2017.<br>
-[\[Paper\]](https://dl.acm.org/citation.cfm?id=3132877)
+[\[Paper\]](https://dl.acm.org/citation.cfm?id=3132877) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/ruchansky2017csi)
 - **Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction**<br>
 **Sungyong Seo**, Jing Huang, Hao Yang, and Yan Liu.<br>
 *Proceedings of the 11th ACM Conference on Recommender Systems (RecSys)* 2017.<br>
-[\[Paper\]](https://dl.acm.org/citation.cfm?id=3109890)
+[\[Paper\]](https://dl.acm.org/citation.cfm?id=3109890) [\Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2017interpretable)
 
 ### Workshops or Preprints
 - **Data Quality Network for Spatiotemporal Forecasting**<br>
