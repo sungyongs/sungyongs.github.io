@@ -25,8 +25,8 @@ More specifically, my research mainly focuses on principled techniques for extra
 
 ## Publications
 ### Conferences
-- **Network Inference from a Mixture of Diffusion Models**<br>
-Karishma Sharma, **Sungyong Seo**, Xinran He and Yan Liu (Submitted) <br><br>
+<!-- - **Network Inference from a Mixture of Diffusion Models**<br> -->
+<!-- Karishma Sharma, **Sungyong Seo**, Xinran He and Yan Liu (Submitted) <br><br> -->
 - **Differentiable Physics-informed Graph Networks**<br>
 **Sungyong Seo** and Yan Liu (Submitted) <br><br>
 - **Social Bots for Online Public Health Interventions**<br/>
