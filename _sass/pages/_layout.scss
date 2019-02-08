@@ -12,7 +12,8 @@
     padding: 30px;
   }
   @include media-query($medium-screen) {
-    height: 100vh;
+    // height: 100vh;
+    height: 50vh;
     position: initial;
     width: 100%;
   }
