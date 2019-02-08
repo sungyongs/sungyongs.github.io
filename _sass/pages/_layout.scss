@@ -12,8 +12,7 @@
     padding: 30px;
   }
   @include media-query($medium-screen) {
-    // height: 100vh;
-    height: 50vh;
+    height: 100vh;
     position: initial;
     width: 100%;
   }
@@ -33,8 +32,17 @@
   .author_name {
     display: block;
     color: #2471A3;// #F36170;
+    @include media-query($small-screen) {
+      font-size: 1.25em;  
+    }
     // font-size: 1.75em;
-    font-size: 2.0em;
+    @include media-query($medium-screen) {
+      font-size: 1.75em;  
+    }
+    @include media-query($large-screen) {
+      font-size: 2.0em;  
+    }
+    // font-size: 2.0em;
     // text-transform: lowercase;
   }
   .author_job {
