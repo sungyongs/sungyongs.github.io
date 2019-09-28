@@ -1,21 +1,26 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Yahoo! Research
+- name: New York University
+  link: https://cds.nyu.edu
+  date: Jul. 2019 - Dec. 2019
+  job: Visiting Researchers working with Dr. Kyunghyun Cho
+
+- name: Yahoo! Research, New York, NY
   link: https://research.yahoo.com/
   date: May 2018 - Aug. 2018
   job: Research Intern
 
-- name: Visa Research
+- name: Visa Research, Foster City, CA
   link: http://research.visa.com/
   date: Jun. 2016 - Aug. 2018
   job: Research Intern
 
-- name: December & Company
+- name: December & Company, Seoul, South Korea
   link: http://dco.com/
   date: Feb. 2015 - Jul. 2015
   job: Software Engineer
 
-- name: Guo Group, University of Michigan
+- name: Guo Group, University of Michigan, Ann Arbor, MI
   link: http://www.guogroup.org/
   date: Jan. 2013 - Dec. 2014
   job: Research Assistant
