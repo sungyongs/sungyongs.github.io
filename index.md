@@ -10,7 +10,7 @@ permalink: /
 My name is Sungyong Seo and I am a Ph.D. student in the
 [Computer Science Department](http://www.cs.usc.edu/) of University of Southern California. 
 I work on Machine Learning under supervision of [Professor Yan Liu](http://melady.usc.edu/).
-I am visiting NYU machine learning group to collaborate with [Professor Kyunghyun Cho](http://www.kyunghyuncho.me).
+Currently, I am visiting the [NYU Center for Data Science](https://cds.nyu.edu) to collaborate with [Professor Kyunghyun Cho](http://www.kyunghyuncho.me).
 
 
 I am interested in machine learning problems in general.
@@ -55,6 +55,7 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 - **Contextual Understanding of Homicide Reports in Los Angeles County**<br>
 **Sungyong Seo**, Umang Gupta, Jiageng Zhu, P. Jeffrey Brantingham and Yan Liu<br>
 *SoCal NLP Symposium* 2019.<br>
+[\[Symposium page\]](https://socalnlp.github.io/symp19/index.html)
 - **Data-driven Temporal Attribution Discovery of Temperature Dynamics based on Attention Networks**<br>
 **Sungyong Seo**, Jiachen Zhang, George Ban-Weiss and Yan Liu<br>
 *Proceedings of the 9th International Workshop on Climate Informatics* 2019.<br>
@@ -62,7 +63,7 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 - **Differentiable Physics-informed Graph Networks**<br>
 **Sungyong Seo** and Yan Liu<br>
 *ICLR Workshop Representation Learning on Graphs and Manifolds* 2019.<br>
-[\[arXiv Paper\]](https://arxiv.org/abs/1902.02950), [\[Workshop page\]](https://rlgm.github.io)
+[\[arXiv Paper\]](https://arxiv.org/abs/1902.02950) [\[Workshop page\]](https://rlgm.github.io)
 - **Data Quality Network for Spatiotemporal Forecasting**<br>
 **Sungyong Seo**, Arash Mohegh, George Ban-Weiss, and Yan Liu<br>
 *Deep Learning for Physical Sciences Workshop at the 31st Conference on Neural Information Processing Systems (DLPS-NIPS)* 2017.<br>
