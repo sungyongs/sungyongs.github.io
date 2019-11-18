@@ -27,9 +27,12 @@ More specifically, my research mainly focuses on principled techniques for extra
 ## Publications
 ### Conferences
 - **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics**<br>
-**Sungyong Seo**, Chuizheng Meng and Yan Liu (Submitted)<br>
+**Sungyong Seo**, Chuizheng Meng and Yan Liu (Submitted)<br><br>
 <!-- - **Network Inference from a Mixture of Diffusion Models**<br>
 Karishma Sharma, Xinran He, **Sungyong Seo** and Yan Liu (Submitted)<br> -->
+- **A Deep Structural Model for Analyzing Correlated Multivariate Time Series**<br>
+Changwei Hu, Yifan Hu and **Sungyong Seo**<br>
+*IEEE International Conference on Machine Learning and Applications (ICMLA)* 2019.<br><br>
 - **Social Bots for Online Public Health Interventions**<br>
 Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Yan, Jon-Patrick Allem and Emilio Ferrara <br>
 *IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)* 2018.<br>
