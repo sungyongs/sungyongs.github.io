@@ -26,10 +26,10 @@ More specifically, my research mainly focuses on principled techniques for extra
 
 ## Publications
 ### Conferences
-<!-- Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics<br>
-**Sungyong Seo**, Chuizheng Meng and Yan Liu (Submitted)<br> -->
-- **Network Inference from a Mixture of Diffusion Models**<br>
-Karishma Sharma, Xinran He, **Sungyong Seo** and Yan Liu (Submitted)<br>
+- **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics**<br>
+**Sungyong Seo**, Chuizheng Meng and Yan Liu (Submitted)<br>
+<!-- - **Network Inference from a Mixture of Diffusion Models**<br>
+Karishma Sharma, Xinran He, **Sungyong Seo** and Yan Liu (Submitted)<br> -->
 - **Social Bots for Online Public Health Interventions**<br>
 Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Yan, Jon-Patrick Allem and Emilio Ferrara <br>
 *IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)* 2018.<br>
