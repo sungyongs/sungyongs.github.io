@@ -27,7 +27,9 @@ More specifically, my research mainly focuses on principled techniques for extra
 ## Publications
 ### Conferences
 - **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics**<br>
-**Sungyong Seo**, Chuizheng Meng and Yan Liu (Submitted)<br><br>
+**Sungyong Seo**\*, Chuizheng Meng* and Yan Liu<br>
+*8th International Conference on Learning Representations (ICLR)* 2020.<br>
+[\[Paper\]](https://openreview.net/pdf?id=r1gelyrtwH) [\[OpenReview\]](https://openreview.net/forum?id=r1gelyrtwH) [\[Bibtex\]]
 <!-- - **Network Inference from a Mixture of Diffusion Models**<br>
 Karishma Sharma, Xinran He, **Sungyong Seo** and Yan Liu (Submitted)<br> -->
 - **A Deep Structural Model for Analyzing Correlated Multivariate Time Series**<br>
