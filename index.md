@@ -63,23 +63,23 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 [\[Symposium page\]](https://socalnlp.github.io/symp19/index.html)
 - **Data-driven Temporal Attribution Discovery of Temperature Dynamics based on Attention Networks**<br>
 **Sungyong Seo**, Jiachen Zhang, George Ban-Weiss and Yan Liu<br>
-*Proceedings of the 9th International Workshop on Climate Informatics* 2019.<br>
+*Proceedings of the 9th International Workshop on Climate Informatics (CI)* 2019.<br>
 [\[Workshop page\]](https://sites.google.com/view/climateinformatics2019)
 - **Differentiable Physics-informed Graph Networks**<br>
 **Sungyong Seo** and Yan Liu<br>
-*ICLR Workshop Representation Learning on Graphs and Manifolds* 2019.<br>
+*ICLR Workshop on Representation Learning on Graphs and Manifolds (ICLR-RLGM)* 2019.<br>
 [\[arXiv Paper\]](https://arxiv.org/abs/1902.02950) [\[Workshop page\]](https://rlgm.github.io)
 - **Data Quality Network for Spatiotemporal Forecasting**<br>
 **Sungyong Seo**, Arash Mohegh, George Ban-Weiss, and Yan Liu<br>
-*Deep Learning for Physical Sciences Workshop at the 31st Conference on Neural Information Processing Systems (DLPS-NIPS)* 2017.<br>
+*NeurIPS Workshop on Deep Learning for Physical Sciences (NeurIPS-DLPS)* 2017.<br>
 [\[Paper\]](https://dl4physicalsciences.github.io/files/nips_dlps_2017_17.pdf)
 - **Graph Convolutional Autoencoder with Recurrent Neural Networks for Spatiotemporal Forecasting**<br>
 **Sungyong Seo**, Arash Mohegh, George Ban-Weiss, and Yan Liu<br>
-*Proceedings of the 7th International Workshop on Climate Informatics* 2017.<br>
+*Proceedings of the 7th International Workshop on Climate Informatics (CI)* 2017.<br>
 [\[Paper\]](https://www2.cisl.ucar.edu/events/workshops/climate-informatics/2017/home)
 - **Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network** <br/>
 **Sungyong Seo**, Jing Huang, Hao Yang, and Yan Liu<br/>
-*3rd International Workshop on Machine Learning Methods for Recommender Systems (MLRec)(SDM’17)* 2017. <br/>
+*SDM Workshop on Machine Learning Methods for Recommender Systems (SDM-MLRec)* 2017. <br/>
 [\[Paper\]](https://pdfs.semanticscholar.org/4946/89f4522619b887e515aea2b205490b0eb5cd.pdf)
 
 
