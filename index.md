@@ -15,9 +15,9 @@ Currently, I am visiting the [NYU Center for Data Science](https://cds.nyu.edu) 
 
 I am interested in machine learning problems in general.
 More specifically, my research mainly focuses on principled techniques for extracting knowledge from the complex structures or networks and using it to build predictive models -- in that way merging insights both from data mining and machine learning. Furthermore, combining the structural knowledge with temporal behaviors is the topic which I am interested in. I am working on the following topics:
+* Physics-informed Learning
 * Spatiotemporal data mining
 * Graph-based Neural Networks
-* Physics-informed Learning
 
 <!-- Education -->
 <div class="row">
@@ -28,7 +28,7 @@ More specifically, my research mainly focuses on principled techniques for extra
 ### Conferences
 - **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics**<br>
 **Sungyong Seo**\*, Chuizheng Meng* and Yan Liu<br>
-*8th International Conference on Learning Representations (ICLR)* 2020.<br>
+*International Conference on Learning Representations (ICLR)* 2020.<br>
 [\[Paper\]](https://openreview.net/pdf?id=r1gelyrtwH) [\[OpenReview\]](https://openreview.net/forum?id=r1gelyrtwH) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2020physicsaware)
 <!-- - **Network Inference from a Mixture of Diffusion Models**<br>
 Karishma Sharma, Xinran He, **Sungyong Seo** and Yan Liu (Submitted)<br> -->
@@ -41,7 +41,7 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 [\[Paper\]](https://arxiv.org/abs/1804.07886) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/deb2018social)
 - **Automatically Inferring Data Quality for Spatiotemporal Forecasting**<br>
 **Sungyong Seo**, Arash Mohegh, George Ban-Weiss, and Yan Liu<br>
-*6th International Conference on Learning Representations (ICLR)* 2018.<br>
+*International Conference on Learning Representations (ICLR)* 2018.<br>
 [\[Paper\]](https://openreview.net/forum?id=ByJIWUnpW) [\[OpenReview\]](https://openreview.net/forum?id=ByJIWUnpW) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2018automatically)
 - **Partially Generative Neural Networks for Gang Crime Classification with Partial Information**<br>
 **Sungyong Seo**, Hau Chan, P. Jeffrey Brantingham, Jorja Leap, Phebe Vayanos, Milind Tambe and Yan Liu<br>
@@ -49,11 +49,11 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 [\[Paper\]](https://pdfs.semanticscholar.org/b00d/c595d1e947b932e48223273bc21ce985bd5b.pdf) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2018partially)
 - **CSI: A Hybrid Deep Model for Fake News Detection**<br>
 **Sungyong Seo**\*, Natali Ruchansky\*, and Yan Liu<br>
-*Proceedings of the 26th ACM International on Conference on Information and Knowledge Management (CIKM)* 2017.<br>
+*ACM International Conference on Information and Knowledge Management (CIKM)* 2017.<br>
 [\[Paper\]](https://dl.acm.org/citation.cfm?id=3132877) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/ruchansky2017csi)
 - **Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction**<br>
 **Sungyong Seo**, Jing Huang, Hao Yang, and Yan Liu<br>
-*Proceedings of the 11th ACM Conference on Recommender Systems (RecSys)* 2017.<br>
+*ACM Conference on Recommender Systems (RecSys)* 2017.<br>
 [\[Paper\]](https://dl.acm.org/citation.cfm?id=3109890) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2017interpretable)
 
 ### Workshops or Preprints
@@ -63,7 +63,7 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 [\[Symposium page\]](https://socalnlp.github.io/symp19/index.html)
 - **Data-driven Temporal Attribution Discovery of Temperature Dynamics based on Attention Networks**<br>
 **Sungyong Seo**, Jiachen Zhang, George Ban-Weiss and Yan Liu<br>
-*Proceedings of the 9th International Workshop on Climate Informatics (CI)* 2019.<br>
+*International Workshop on Climate Informatics (CI)* 2019.<br>
 [\[Workshop page\]](https://sites.google.com/view/climateinformatics2019)
 - **Differentiable Physics-informed Graph Networks**<br>
 **Sungyong Seo** and Yan Liu<br>
@@ -75,7 +75,7 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 [\[Paper\]](https://dl4physicalsciences.github.io/files/nips_dlps_2017_17.pdf)
 - **Graph Convolutional Autoencoder with Recurrent Neural Networks for Spatiotemporal Forecasting**<br>
 **Sungyong Seo**, Arash Mohegh, George Ban-Weiss, and Yan Liu<br>
-*Proceedings of the 7th International Workshop on Climate Informatics (CI)* 2017.<br>
+*International Workshop on Climate Informatics (CI)* 2017.<br>
 [\[Paper\]](https://www2.cisl.ucar.edu/events/workshops/climate-informatics/2017/home)
 - **Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network** <br/>
 **Sungyong Seo**, Jing Huang, Hao Yang, and Yan Liu<br/>
