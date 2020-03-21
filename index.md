@@ -10,14 +10,14 @@ permalink: /
 My name is Sungyong Seo and I am a Ph.D. student in the
 [Computer Science Department](http://www.cs.usc.edu/) of University of Southern California. 
 I work on Machine Learning under supervision of [Professor Yan Liu](http://melady.usc.edu/).
-Currently, I am visiting the [NYU Center for Data Science](https://cds.nyu.edu) to collaborate with [Professor Kyunghyun Cho](http://www.kyunghyuncho.me).
+I also spent time at the [NYU Center for Data Science](https://cds.nyu.edu) to collaborate with [Professor Kyunghyun Cho](http://www.kyunghyuncho.me).
 
 
 I am interested in machine learning problems in general.
 More specifically, my research mainly focuses on principled techniques for extracting knowledge from the complex structures or networks and using it to build predictive models -- in that way merging insights both from data mining and machine learning. Furthermore, combining the structural knowledge with temporal behaviors is the topic which I am interested in. I am working on the following topics:
-* Physics-informed Learning
+* Physics-inspired machine learning
 * Spatiotemporal data mining
-* Graph-based Neural Networks
+* Graph-based neural networks
 
 <!-- Education -->
 <div class="row">
@@ -29,12 +29,13 @@ More specifically, my research mainly focuses on principled techniques for extra
 - **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics**<br>
 **Sungyong Seo**\*, Chuizheng Meng* and Yan Liu<br>
 *International Conference on Learning Representations (ICLR)* 2020.<br>
-[\[Paper\]](https://openreview.net/pdf?id=r1gelyrtwH) [\[OpenReview\]](https://openreview.net/forum?id=r1gelyrtwH) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2020physicsaware)
+[\[Paper\]](https://openreview.net/pdf?id=r1gelyrtwH) [\[OpenReview\]](https://openreview.net/forum?id=r1gelyrtwH) [\[Code\]](https://github.com/USC-Melady/ICLR2020-PADGN) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2020physicsaware)
 <!-- - **Network Inference from a Mixture of Diffusion Models**<br>
 Karishma Sharma, Xinran He, **Sungyong Seo** and Yan Liu (Submitted)<br> -->
 - **A Deep Structural Model for Analyzing Correlated Multivariate Time Series**<br>
 Changwei Hu, Yifan Hu and **Sungyong Seo**<br>
-*IEEE International Conference on Machine Learning and Applications (ICMLA)* 2019.<br><br>
+*IEEE International Conference on Machine Learning and Applications (ICMLA)* 2019.<br>
+[\[Paper\]](https://arxiv.org/abs/2001.00559) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/hu2019deep)
 - **Social Bots for Online Public Health Interventions**<br>
 Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Yan, Jon-Patrick Allem and Emilio Ferrara <br>
 *IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)* 2018.<br>
@@ -45,7 +46,7 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 [\[Paper\]](https://openreview.net/forum?id=ByJIWUnpW) [\[OpenReview\]](https://openreview.net/forum?id=ByJIWUnpW) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2018automatically)
 - **Partially Generative Neural Networks for Gang Crime Classification with Partial Information**<br>
 **Sungyong Seo**, Hau Chan, P. Jeffrey Brantingham, Jorja Leap, Phebe Vayanos, Milind Tambe and Yan Liu<br>
-*AAAI/ACM Conference on AI, Ethics, and Society* 2018. (Oral presentation)<br>
+*AAAI/ACM Conference on AI, Ethics, and Society (AIES)* 2018. (Oral presentation)<br>
 [\[Paper\]](https://pdfs.semanticscholar.org/b00d/c595d1e947b932e48223273bc21ce985bd5b.pdf) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2018partially)
 - **CSI: A Hybrid Deep Model for Fake News Detection**<br>
 **Sungyong Seo**\*, Natali Ruchansky\*, and Yan Liu<br>

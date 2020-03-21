@@ -1,0 +1,8 @@
+@inproceedings{hu2019deep,
+  title={A Deep Structural Model for Analyzing Correlated Multivariate Time Series},
+  author={Hu, Changwei and Hu, Yifan and Seo, Sungyong},
+  booktitle={2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)},
+  pages={69--74},
+  year={2019},
+  organization={IEEE}
+}
