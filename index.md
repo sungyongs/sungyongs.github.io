@@ -27,7 +27,7 @@ More specifically, my research mainly focuses on principled techniques for extra
 ## Publications
 ### Conferences
 - **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics**<br>
-**Sungyong Seo**\*, Chuizheng Meng*, Yan Liu<br>
+**Sungyong Seo**\*, Chuizheng Meng\*, Yan Liu<br>
 *International Conference on Learning Representations (ICLR)* 2020.<br>
 [\[Paper\]](https://openreview.net/pdf?id=r1gelyrtwH) [\[OpenReview\]](https://openreview.net/forum?id=r1gelyrtwH) [\[Code\]](https://github.com/USC-Melady/ICLR2020-PADGN) [\[Bibtex\]](https://raw.githubusercontent.com/sungyongs/sungyongs.github.io/master/bibtex/seo2020physicsaware)
 <!-- - **Network Inference from a Mixture of Diffusion Models**<br>
@@ -60,7 +60,7 @@ Ashok Deb, Anuja Majmundar, **Sungyong Seo**, Akira Matsui, Rajat Tandon, Shen Y
 ### Workshops or Preprints
 - **Coronavirus on social media: Analyzing misinformation in Twitter conversations**<br>
 Karishma Sharma, **Sungyong Seo**, Chuizheng Meng, Sirisha Rambhatla, Aastha Dua, Yan Liu<br>
-[\[arXiv Paper\]](https://arxiv.org/abs/2003.12309)[\[Project Page\]](https://usc-melady.github.io/COVID-19-Tweet-Analysis/index.html)
+[\[arXiv Paper\]](https://arxiv.org/abs/2003.12309)[\[Project Page\]](https://usc-melady.github.io/COVID-19-Tweet-Analysis/index.html)[\[Fortune Eye on AI\]](https://fortune.com/2020/04/28/coronavirus-artificial-intelligence-white-house/)
 - **Contextual Understanding of Homicide Reports in Los Angeles County**<br>
 **Sungyong Seo**, Umang Gupta, Jiageng Zhu, P. Jeffrey Brantingham, Yan Liu<br>
 *SoCal NLP Symposium* 2019.<br>
