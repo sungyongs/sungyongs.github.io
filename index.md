@@ -26,6 +26,11 @@ More specifically, my research mainly focuses on principled techniques for extra
 
 ## Publications
 ### Conferences
+- **Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning**<br>
+**Sungyong Seo**, Chuizheng Meng, Sirisha Rambhatla, Yan Liu<br>
+*International Joint Conference on Artificial Intelligence (IJCAI)* 2021.<br>
+*NeurIPS Workshop Machine Learning and the Physical Sciences (ML4PS)* 2020.<br>
+[\[Workshop Paper\]](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_103.pdf) [\[Workshop Poster\]](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_103_poster.pdf)
 - **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics**<br>
 **Sungyong Seo**\*, Chuizheng Meng\*, Yan Liu<br>
 *International Conference on Learning Representations (ICLR)* 2020.<br>
@@ -72,7 +77,8 @@ Karishma Sharma, **Sungyong Seo**, Chuizheng Meng, Sirisha Rambhatla, Aastha Dua
 - **Differentiable Physics-informed Graph Networks**<br>
 **Sungyong Seo** and Yan Liu<br>
 *ICLR Workshop on Representation Learning on Graphs and Manifolds (ICLR-RLGM)* 2019.<br>
-[\[arXiv Paper\]](https://arxiv.org/abs/1902.02950) [\[Workshop page\]](https://rlgm.github.io)
+*AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physics Sciences (AAAI-MLPS)* 2021.<br>
+[\[arXiv Paper\]](https://arxiv.org/abs/1902.02950) [\[Workshop page\]](https://rlgm.github.io) [\[Symposium Proceedings\]](https://sites.google.com/view/aaai-mlps/proceedings?authuser=0) [\[Code\]](https://github.com/sungyongs/dpgn)
 - **Data Quality Network for Spatiotemporal Forecasting**<br>
 **Sungyong Seo**, Arash Mohegh, George Ban-Weiss, Yan Liu<br>
 *NeurIPS Workshop on Deep Learning for Physical Sciences (NeurIPS-DLPS)* 2017.<br>
