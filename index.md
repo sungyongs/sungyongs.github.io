@@ -7,10 +7,7 @@ permalink: /
 
 
 ## About Me
-My name is Sungyong Seo and I am a Ph.D. student in the
-[Computer Science Department](http://www.cs.usc.edu/) of University of Southern California. 
-I work on Machine Learning under supervision of [Professor Yan Liu](http://melady.usc.edu/).
-I also spent time at the [NYU Center for Data Science](https://cds.nyu.edu) to collaborate with [Professor Kyunghyun Cho](http://www.kyunghyuncho.me).
+My name is Sungyong Seo and I am a Software Engineer at [Google Cloud AI](https://cloud.google.com/products/ai). Prior to joining Google, I was a Ph.D. student in the [Computer Science Department](http://www.cs.usc.edu/) of University of Southern California under the supervision of [Professor Yan Liu](http://melady.usc.edu/). I also spent time at the [NYU Center for Data Science](https://cds.nyu.edu) to collaborate with [Professor Kyunghyun Cho](http://www.kyunghyuncho.me).
 
 
 I am interested in machine learning problems in general.
@@ -18,6 +15,7 @@ More specifically, my research mainly focuses on principled techniques for extra
 * Physics-inspired machine learning
 * Spatiotemporal data mining
 * Graph-based neural networks
+* Recommendation systems
 
 <!-- Education -->
 <div class="row">
@@ -26,6 +24,10 @@ More specifically, my research mainly focuses on principled techniques for extra
 
 ## Publications
 ### Conferences
+- **Controlling Neural Networks with Rule Representations**<br>
+**Sungyong Seo**, Sercan O Arik, Jinsung Yoon, Xiang Zhang, Kihyuk Sohn, Tomas Pfister<br>
+*Neural Information Processing Systems (NeurIPS)* 2021.<br>
+[\[arXiv\]](https://arxiv.org/abs/2106.07804) [\[Code\]](https://github.com/googleinterns/controllabledl)
 - **Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning**<br>
 **Sungyong Seo**, Chuizheng Meng, Sirisha Rambhatla, Yan Liu<br>
 *International Joint Conference on Artificial Intelligence (IJCAI)* 2021.<br>
