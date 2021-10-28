@@ -27,12 +27,12 @@ More specifically, my research mainly focuses on principled techniques for extra
 - **Controlling Neural Networks with Rule Representations**<br>
 **Sungyong Seo**, Sercan O Arik, Jinsung Yoon, Xiang Zhang, Kihyuk Sohn, Tomas Pfister<br>
 *Neural Information Processing Systems (NeurIPS)* 2021.<br>
-[\[arXiv\]](https://arxiv.org/abs/2106.07804) [\[Code\]](https://github.com/googleinterns/controllabledl)
+[\[arXiv Paper\]](https://arxiv.org/abs/2106.07804) [\[Code\]](https://github.com/googleinterns/controllabledl)
 - **Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning**<br>
 **Sungyong Seo**, Chuizheng Meng, Sirisha Rambhatla, Yan Liu<br>
 *International Joint Conference on Artificial Intelligence (IJCAI)* 2021.<br>
 *NeurIPS Workshop Machine Learning and the Physical Sciences (ML4PS)* 2020.<br>
-[\[Workshop Paper\]](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_103.pdf) [\[Workshop Poster\]](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_103_poster.pdf)
+[\[Paper\]](https://www.ijcai.org/proceedings/2021/0405.pdf) [\[Workshop Paper\]](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_103.pdf) [\[Workshop Poster\]](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_103_poster.pdf)
 - **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics**<br>
 **Sungyong Seo**\*, Chuizheng Meng\*, Yan Liu<br>
 *International Conference on Learning Representations (ICLR)* 2020.<br>
