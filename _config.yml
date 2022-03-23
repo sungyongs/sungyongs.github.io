@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Sungyong Seo @ USC
+title: Sungyong Seo @ Google
 email:
 description: Personal page of Sungyong Seo
 url: # the base hostname & protocol for your site
@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Sungyong Seo
   avatar: sungyong-linkedin.jpg
-  job: "Computer Science Ph.D. student @ USC"
+  job: "Software Engineer @ Google Cloud AI"
   bio: "<b>Research Interests</b> <br> Graph Networks <br>Physics-informed Learning<br> Spatiotemporal models"
   email: #
   disqus-shortname:
