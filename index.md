@@ -27,7 +27,7 @@ More specifically, my research mainly focuses on principled techniques for extra
 - **Controlling Neural Networks with Rule Representations**<br>
 **Sungyong Seo**, Sercan O Arik, Jinsung Yoon, Xiang Zhang, Kihyuk Sohn, Tomas Pfister<br>
 *Neural Information Processing Systems (NeurIPS)* 2021.<br>
-[\[arXiv Paper\]](https://arxiv.org/abs/2106.07804) [\[Code\]](https://github.com/googleinterns/controllabledl)
+[\[arXiv Paper\]](https://arxiv.org/abs/2106.07804) [\[Code\]](https://github.com/googleinterns/controllabledl) [\[K1st World Symposium\]](https://www.youtube.com/watch?v=9EEtmK-l_3w)
 - **Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning**<br>
 **Sungyong Seo**, Chuizheng Meng, Sirisha Rambhatla, Yan Liu<br>
 *International Joint Conference on Artificial Intelligence (IJCAI)* 2021.<br>
