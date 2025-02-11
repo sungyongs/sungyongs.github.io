@@ -7,7 +7,7 @@ permalink: /
 
 
 ## About Me
-My name is Sungyong Seo and I am a Software Engineer at [Google Cloud AI](https://cloud.google.com/products/ai). Prior to joining Google, I was a Ph.D. student in the [Computer Science Department](http://www.cs.usc.edu/) of University of Southern California under the supervision of [Professor Yan Liu](http://melady.usc.edu/). I also spent time at the [NYU Center for Data Science](https://cds.nyu.edu) to collaborate with [Professor Kyunghyun Cho](http://www.kyunghyuncho.me).
+My name is Sungyong Seo and I am a Software Engineer at Google. Prior to joining Google, I was a Ph.D. student in the [Computer Science Department](http://www.cs.usc.edu/) of University of Southern California under the supervision of [Professor Yan Liu](http://melady.usc.edu/). I also spent time at the [NYU Center for Data Science](https://cds.nyu.edu) to collaborate with [Professor Kyunghyun Cho](http://www.kyunghyuncho.me).
 
 
 I am interested in machine learning problems in general.
@@ -24,6 +24,10 @@ More specifically, my research mainly focuses on principled techniques for extra
 
 ## Publications
 ### Conferences
+- **Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning**<br>
+Bahare Fatemi, Mehran Kazemi, Anton Tsitsulin, Karishma Malkan, Jinyeong Yim, John Palowitch, **Sungyong Seo**, Jonathan Halcrow, Bryan Perozzi<br>
+*International Conference on Learning Representations (ICLR)* 2025.<br>
+[\[Paper\]](https://openreview.net/forum?id=44CoQe6VCq)
 - **Controlling Neural Networks with Rule Representations**<br>
 **Sungyong Seo**, Sercan O Arik, Jinsung Yoon, Xiang Zhang, Kihyuk Sohn, Tomas Pfister<br>
 *Neural Information Processing Systems (NeurIPS)* 2021.<br>
@@ -33,6 +37,10 @@ More specifically, my research mainly focuses on principled techniques for extra
 *International Joint Conference on Artificial Intelligence (IJCAI)* 2021.<br>
 *NeurIPS Workshop Machine Learning and the Physical Sciences (ML4PS)* 2020.<br>
 [\[Paper\]](https://www.ijcai.org/proceedings/2021/0405.pdf) [\[Workshop Paper\]](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_103.pdf) [\[Workshop Poster\]](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_103_poster.pdf)
+- **Network Inference from a Mixture of Diffusion Models for Fake News Mitigation**<br>
+Karishma Sharma, Xinran He, **Sungyong Seo**, Yan Liu<br>
+*International AAAI Conference on Web and Social Media (ICWSM)* 2021.<br>
+[\[Paper\]](https://ojs.aaai.org/index.php/ICWSM/article/view/18093)
 - **Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics**<br>
 **Sungyong Seo**\*, Chuizheng Meng\*, Yan Liu<br>
 *International Conference on Learning Representations (ICLR)* 2020.<br>
