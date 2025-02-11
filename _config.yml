@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Sungyong Seo
   avatar: sungyong-linkedin.jpg
-  job: "Software Engineer @ Google Cloud AI"
+  job: "Software Engineer @ Google"
   bio: "<b>Research Interests</b> <br> Graph Networks <br>Physics-informed Learning<br> Spatiotemporal models"
   email: #
   disqus-shortname:
