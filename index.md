@@ -23,7 +23,11 @@ More specifically, my research mainly focuses on principled techniques for extra
 </div>
 
 ## Publications
-### Conferences
+### Conferences and Journals
+- **When physics meets machine learning: a survey of physics-informed machine learning**<br>
+Chuizheng Meng, Sam Griesemer, Defu Cao, **Sungyong Seo**, Yan Liu <br>
+*Machine Learning for Computational Science and Engineering* Volume 1, article number 20, (2025).<br>
+[\[Paper\]](https://link.springer.com/article/10.1007/s44379-025-00016-0)
 - **Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning**<br>
 Bahare Fatemi, Mehran Kazemi, Anton Tsitsulin, Karishma Malkan, Jinyeong Yim, John Palowitch, **Sungyong Seo**, Jonathan Halcrow, Bryan Perozzi<br>
 *International Conference on Learning Representations (ICLR)* 2025.<br>
